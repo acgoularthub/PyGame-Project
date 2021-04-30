@@ -6,5 +6,6 @@ Fora os contratempos de promoção, pelo menos a parte de explicação foi bem c
 
 Para rodar o projeto:
 
-Execute `pip install pygame`
-Rode o jogo com `python snake.py`
+* Execute `pip install pygame`
+
+* Rode o jogo com `python snake.py`
